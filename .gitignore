@@ -1,1 +1,19 @@
-"" 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pth
+
+# Environments
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Outputs
+outputs/
+data/
